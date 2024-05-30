@@ -1,5 +1,5 @@
 # berlin-property-analysis
-This hobby project aims to analyze and visualize Berlin's real estate market as of April 2023, then offers purchasing recommendations.
+This passion project aims to analyze and visualize Berlin's real estate market as of April 2023, then offers purchasing recommendations.
 
 # Background
 Berlin is one of my favourite cities in the world. Throughout the years, I have lived in different parts of Berlin; the vast difference in Berlin districts intrigues me, and I decided to make an analysis of Berlin's property market to understand the city better.
